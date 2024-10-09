@@ -1,5 +1,5 @@
 # ChatGPT-Agents-for-Customized-Text-Labelling
 
-![Imag description](https://onedrive.live.com/download?cid=F5BDCF1377851F57&resid=f5bdcf1377851f57%2121040)
+![Image description](https://drive.google.com/uc?export=view&id=1w3D1nVvr9vvJyF4hwkMTHQIBKXUny2fx)
 
 
